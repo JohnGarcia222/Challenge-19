@@ -43,8 +43,19 @@ https://github.com/JohnGarcia222/Challenge-19/assets/127170402/01571379-fa45-418
 
 ## Usage
 
+1. Find a fintec professional and pay for the hours of your choosing.  
 
+2. Check Ganache to make sure your transaction went through  
 
+3. Enjoy!!!
+
+-------------------------------
+
+## Proof of Transaction
+
+https://github.com/JohnGarcia222/Challenge-19/assets/127170402/27ff9045-2a33-44ab-93f0-005c26e08dfe
+
+https://github.com/JohnGarcia222/Challenge-19/assets/127170402/272cd242-7258-4908-bd10-5141db87bec5
 
 ----------------------------
 
