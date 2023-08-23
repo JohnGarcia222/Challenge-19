@@ -57,6 +57,11 @@ https://github.com/JohnGarcia222/Challenge-19/assets/127170402/27ff9045-2a33-44a
 
 https://github.com/JohnGarcia222/Challenge-19/assets/127170402/272cd242-7258-4908-bd10-5141db87bec5
 
+![transproof](https://github.com/JohnGarcia222/Challenge-19/assets/127170402/7b6e9a60-c9ba-4656-841a-6d798e9d012b)
+
+![prooftrans](https://github.com/JohnGarcia222/Challenge-19/assets/127170402/64276683-4ee2-4903-8d64-e31dd28ad6d1)
+
+
 ----------------------------
 
 ## Contributors
